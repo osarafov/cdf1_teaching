@@ -7,7 +7,7 @@ a = 10
 b = 5.5
 
 # TODO: Write an addition operation using the above variables.
-addition = ...
+addition = a + b
 print(addition)
 
 # TODO: Write a subtraction operation using the above variables.
